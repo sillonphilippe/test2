@@ -1,1 +1,1 @@
-console.out ('Hello world ! ');22
+console.out ('Hello world ! 12');
